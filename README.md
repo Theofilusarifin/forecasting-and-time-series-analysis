@@ -1,4 +1,4 @@
-# 📈 Time Series Analysis & Forecasting Repository
+# 📈 Time Series Analysis & Forecasting
 
 This repository is dedicated to exploring **Time Series Analysis** and **Forecasting**, key areas of machine learning and statistical modeling that deal with analyzing and predicting time-dependent data. It provides a practical foundation for understanding, implementing, and experimenting with time series models and forecasting techniques.
 
